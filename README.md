@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YI01-ZHOU)
 </br>
 ![](https://img.shields.io/badge/Vue-Vue2%2F3%20-green)
+![Static Badge](https://img.shields.io/badge/React-React18-red?style=flat&logo=vue)
 ![](https://img.shields.io/badge/Javascript-Es6%20-orange)
 ![](https://img.shields.io/badge/C%23-.Net%20Core%2F.Net%205%20%2F%20.Net%206-red)
 
